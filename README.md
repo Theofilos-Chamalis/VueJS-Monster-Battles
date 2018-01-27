@@ -1,6 +1,5 @@
-# VueJS-Monster-Battles
-
-<h1 align="center">A basic turn based RPG battle game written in Vue.js  :video_game: :game_die:</h1>
+<h1 align="center">:video_game: VueJS-Monster-Battles :video_game:</h1>
+<h1 align="center">A basic turn based RPG battle game written with Vue.js</h1>
 <br/>
 
 <br/>This basic game was created as a showcase to the basic functionality, structural freedom and intuitive development style provided by the vue.js frontend Javascript framework.
