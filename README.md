@@ -17,8 +17,16 @@
 <br />
 
 
-Screenshot
+Screenshots
 ---------------------
-![Alt text](https://github.com/Theofilos-Chamalis/QR-PTT-PushToTalk/blob/master/EVO%20PTT-feature-graphic.png "EVO PTT - The Evolution in PTT communication")
+<h2 align="center">Monster Battles - Home Screen</h2>
+
+![Alt text](https://github.com/Theofilos-Chamalis/VueJS-Monster-Battles/blob/master/HomeScreen.png "Monster Battles - Home Screen")
+
+<br />
+
+<h2 align="center">Monster Battles - Battle Screen</h2>
+
+![Alt text](https://github.com/Theofilos-Chamalis/VueJS-Monster-Battles/blob/master/BattleScreen.png "Monster Battles - Home Screen")
 
 
