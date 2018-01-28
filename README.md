@@ -27,6 +27,6 @@ Screenshots
 
 <h2 align="center">Monster Battles - Battle Screen</h2>
 
-![Alt text](https://github.com/Theofilos-Chamalis/VueJS-Monster-Battles/blob/master/BattleScreen.png "Monster Battles - Home Screen")
+![Alt text](https://github.com/Theofilos-Chamalis/VueJS-Monster-Battles/blob/master/BattleScreen.png "Monster Battles - Battle Screen")
 
 
