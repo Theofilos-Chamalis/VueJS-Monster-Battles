@@ -1,112 +1,112 @@
 body {
-    background-color: #f0f0f0;
+  background-color: #f0f0f0;
 }
 
 .game-title {
-    text-align: center;
-    font-family: 'Press Start 2P', cursive;
-    font-size: 50px;
-    margin-top: 20px;
-    margin-bottom: 80px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 80px;
 }
 
 .text-center {
-    font-family: 'Press Start 2P', cursive;
-    text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
 }
 
 .healthbar {
-    width: 80%;
-    height: 40px;
-    background-color: #e0e0e0;
-    margin: auto;
-    transition: width 500ms;
+  width: 80%;
+  height: 40px;
+  background-color: #e0e0e0;
+  margin: auto;
+  transition: width 500ms;
 }
 
 .controls,
 .log {
-    margin-top: 30px;
-    text-align: center;
-    padding: 10px;
-    font-family: 'Press Start 2P', cursive;
-    border: 1px solid #ccc;
-    box-shadow: 0px 3px 6px #ccc;
+  margin-top: 30px;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Press Start 2P', cursive;
+  border: 1px solid #ccc;
+  box-shadow: 0px 3px 6px #ccc;
 }
 
 .turn {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-weight: bold;
-    font-family: 'Press Start 2P', cursive;
-    font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
 }
 
 .log ul {
-    list-style: none;
-    font-weight: bold;
-    font-family: 'Press Start 2P', cursive;
-    text-transform: uppercase;
+  list-style: none;
+  font-weight: bold;
+  font-family: 'Press Start 2P', cursive;
+  text-transform: uppercase;
 }
 
 .log ul li {
-    margin: 5px;
+  margin: 5px;
 }
 
 .log ul .player-turn {
-    color: blue;
-    background-color: #e4e8ff;
+  color: blue;
+  background-color: #e4e8ff;
 }
 
 .log ul .monster-turn {
-    color: red;
-    background-color: #ffc0c1;
+  color: red;
+  background-color: #ffc0c1;
 }
 
 button {
-    font-size: 18px;
-    background-color: #eee;
-    padding: 12px;
-    box-shadow: 0 1px 1px black;
-    font-family: 'Press Start 2P', cursive;
-    margin: 10px;
+  font-size: 18px;
+  background-color: #eee;
+  padding: 12px;
+  box-shadow: 0 1px 1px black;
+  font-family: 'Press Start 2P', cursive;
+  margin: 10px;
 }
 
 #start-game {
-    background-color: #ffac5f;
+  background-color: #ffac5f;
 }
 
 #start-game:hover {
-    background-color: #ff8d23;
+  background-color: #ff8d23;
 }
 
 #attack {
-    background-color: #ff7367;
+  background-color: #ff7367;
 }
 
 #attack:hover {
-    background-color: #ff3f43;
+  background-color: #ff3f43;
 }
 
 #special-attack {
-    background-color: #5fffff;
+  background-color: #5fffff;
 }
 
 #special-attack:hover {
-    background-color: #1fe5ff;
+  background-color: #1fe5ff;
 }
 
 #heal {
-    background-color: #aaffb0;
+  background-color: #aaffb0;
 }
 
 #heal:hover {
-    background-color: #76ff7e;
+  background-color: #76ff7e;
 }
 
 #surrender {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 #surrender:hover {
-    background-color: #c7c7c7;
+  background-color: #c7c7c7;
 }
